@@ -37,7 +37,7 @@ C++ | | :heavy_check_mark:|
 
 
 
-[logo]: https://lh3.googleusercontent.com/yrLo4b7sftuEpu1CW_FcyHqqpTdq1f3A4AhWP4QCBRvFnQuSt0Nftl2WJT9wUqfEyIT5wjTRycoKEtIBYILefnmaO_QOF6Y "The OpenCalc Project"
+[logo]: https://photos.google.com/photo/AF1QipNmm3Fh7WJXaHCK--J0_2RygGHo5jM9rGcgo_CE "The OpenCalc Project"
 
 
 
